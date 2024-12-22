@@ -1,0 +1,38 @@
+.box{
+    border:3px solid #222;
+    padding: 10px;
+}
+.box3 h3{
+    text-align: left;
+}
+.box3 h2{
+    text-align: right;
+}
+.box3 h5{
+    text-align: right;
+    color: red;
+}
+.box3 h4{
+    text-align: right;
+}
+.box2 h5{
+    text-align: center;
+    text-align:top;
+}
+.box2 h6{
+    text-align: center;
+    
+}
+.box button{
+    text-align:right;
+    border: 1px solid bisque;
+    background-color: rgb(190, 205, 205);
+    
+
+}
+.box h4{
+    text-align: right;
+}
+.box2 h4{
+    color: red;
+}
